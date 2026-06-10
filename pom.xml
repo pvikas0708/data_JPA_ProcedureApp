@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>MS-15-API-GateWay</artifactId>
+	<artifactId>SBMS-15-API-GateWay</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MS-15-API-GateWay</name>
 	<description>Demo project for Spring Boot</description>
